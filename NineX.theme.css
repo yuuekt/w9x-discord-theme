@@ -14,20 +14,20 @@
 
 /* See https://github.com/Saltssaumure/w9x-discord-theme#customisation for customisation settings. */
 :root {
-    --w9x-background-image: none;
+    --w9x-background-image: url(https://imgur.com/NrfI36l);
     --w9x-background-color: #15293d;
     --w9x-start-text:       "The Lakebed";
 
-    --w9x-titlebar-color:   #000080;
+    --w9x-titlebar-color:   #aa5375;
     --w9x-warning-color:    #FF0000;
     --w9x-positive-color:   #008000;
-    --w9x-highlight-color:  #0000FF;
+    --w9x-highlight-color:  #8a4468;
 
-    --w9x-box-color-1:      #FFFFFF;
+    --w9x-box-color-1:      #051235;
     --w9x-box-color-2:      #DFDFDF;
-    --w9x-box-color-3:      #C0C0C0;
-    --w9x-box-color-4:      #808080;
-    --w9x-box-color-5:      #000000;
+    --w9x-box-color-3:      #a9aaeb;
+    --w9x-box-color-4:      #5aace4;
+    --w9x-box-color-5:      #377eb4;
 }
 
 .theme-light {
